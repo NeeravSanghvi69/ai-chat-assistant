@@ -161,10 +161,10 @@ AI: [Explains the process of photosynthesis step by step]
 ```
 User: What's the weather in Pune?
 AI: Current weather in Pune:
-    🌡️ Temperature: 24°C (feels like 23°C)
-    ☁️ Conditions: Clear sky
-    💧 Humidity: 45%
-    💨 Wind Speed: 3.5 m/s
+    Temperature: 24°C (feels like 23°C)
+    Conditions: Clear sky
+    Humidity: 45%
+    Wind Speed: 3.5 m/s
 ```
 
 Calculations
