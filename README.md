@@ -53,7 +53,7 @@ Installation & Setup
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-chat-assistant.git
+git clone https://github.com/NeeravSanghvi69/ai-chat-assistant.git
 cd ai-chat-assistant
 ```
 
